@@ -1,0 +1,34 @@
+{
+  "attacks": [
+    {
+      "id": "tally_punch",
+      "name": "Tally Punch",
+      "type": "Damage",
+      "minPower": 5,
+      "maxPower": 10,
+      "accuracy": 1.0
+    },
+    {
+      "id": "geyser",
+      "name": "Geyser",
+      "type": "Charge",
+      "minPower": 15,
+      "maxPower": 30,
+      "accuracy": 1.0,
+      "maxUses": 3,
+      "chargeTurns": 1,
+      "selfEffectChance": 0.1,
+      "selfEffects": {
+        "attackModifier": 1.1,
+        "defenseModifier": 1.0
+      }
+    },
+    {
+      "id": "aqua_barrier",
+      "name": "Aqua Barrier",
+      "type": "Protect",
+      "maxUses": 3,
+      "accuracyStages": [1.0, 0.75, 0.5]
+    }
+  ]
+}

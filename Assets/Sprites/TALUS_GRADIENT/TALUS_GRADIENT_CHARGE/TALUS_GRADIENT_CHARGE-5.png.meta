@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 393bebab269579f449ff7c04029e9384
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -196512789589716190
+    second: TALUS_GRADIENT_CHARGE-5_0
+  - first:
+      213: -4795157944838505749
+    second: TALUS_GRADIENT_CHARGE-5_1
+  - first:
+      213: -6865421435983484220
+    second: TALUS_GRADIENT_CHARGE-5_2
+  - first:
+      213: -2695244073627091821
+    second: TALUS_GRADIENT_CHARGE-5_3
+  - first:
+      213: 3220609779681476124
+    second: TALUS_GRADIENT_CHARGE-5_4
+  - first:
+      213: -6087955384194101235
+    second: TALUS_GRADIENT_CHARGE-5_5
+  - first:
+      213: -4322805679524993261
+    second: TALUS_GRADIENT_CHARGE-5_6
+  - first:
+      213: 8997396269468048650
+    second: TALUS_GRADIENT_CHARGE-5_7
+  - first:
+      213: 1148831515209994972
+    second: TALUS_GRADIENT_CHARGE-5_8
+  - first:
+      213: -3428149661383676185
+    second: TALUS_GRADIENT_CHARGE-5_9
+  - first:
+      213: -5343965737889445516
+    second: TALUS_GRADIENT_CHARGE-5_10
+  - first:
+      213: 2123792940276893716
+    second: TALUS_GRADIENT_CHARGE-5_11
+  - first:
+      213: -8323214502894633566
+    second: TALUS_GRADIENT_CHARGE-5_12
+  - first:
+      213: -2837977947085455091
+    second: TALUS_GRADIENT_CHARGE-5_13
+  - first:
+      213: 5171125739512796621
+    second: TALUS_GRADIENT_CHARGE-5_14
+  - first:
+      213: -1139383210775183344
+    second: TALUS_GRADIENT_CHARGE-5_15
+  - first:
+      213: -5840551905692711577
+    second: TALUS_GRADIENT_CHARGE-5_16
+  - first:
+      213: -4666159947599303120
+    second: TALUS_GRADIENT_CHARGE-5_17
+  - first:
+      213: 8626464210769274004
+    second: TALUS_GRADIENT_CHARGE-5_18
+  - first:
+      213: -654794408653475144
+    second: TALUS_GRADIENT_CHARGE-5_19
+  - first:
+      213: 1287110230292750476
+    second: TALUS_GRADIENT_CHARGE-5_20
+  - first:
+      213: -6034126697320541130
+    second: TALUS_GRADIENT_CHARGE-5_21
+  - first:
+      213: -28350233134500604
+    second: TALUS_GRADIENT_CHARGE-5_22
+  - first:
+      213: -4851604063457245848
+    second: TALUS_GRADIENT_CHARGE-5_23
+  - first:
+      213: 2431477910525682872
+    second: TALUS_GRADIENT_CHARGE-5_24
+  - first:
+      213: 3991728850785147424
+    second: TALUS_GRADIENT_CHARGE-5_25
+  - first:
+      213: 2087722935097242656
+    second: TALUS_GRADIENT_CHARGE-5_26
+  - first:
+      213: -6908894654568406475
+    second: TALUS_GRADIENT_CHARGE-5_27
+  - first:
+      213: 2076581804647579708
+    second: TALUS_GRADIENT_CHARGE-5_28
+  - first:
+      213: -5411875939416042581
+    second: TALUS_GRADIENT_CHARGE-5_29
+  - first:
+      213: -8333456605758656570
+    second: TALUS_GRADIENT_CHARGE-5_30
+  - first:
+      213: -2272869060050108494
+    second: TALUS_GRADIENT_CHARGE-5_31
+  - first:
+      213: 963744873792363485
+    second: TALUS_GRADIENT_CHARGE-5_32
+  - first:
+      213: 538274804557856404
+    second: TALUS_GRADIENT_CHARGE-5_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1888
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2231fa6b8a8d54df0800000000000000
+      internalID: -196512789589716190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1840
+        width: 107
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea3208414d247db0800000000000000
+      internalID: -4795157944838505749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 1690
+        height: 2036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca2ada149f19b0a0800000000000000
+      internalID: -6865421435983484220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_3
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1799
+        width: 135
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cfa788bc1989ad0800000000000000
+      internalID: -2695244073627091821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_4
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1872
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e3016f787e1bc20800000000000000
+      internalID: 3220609779681476124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1733
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d001fac55dc338ba0800000000000000
+      internalID: -6087955384194101235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1684
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3172fde332f4204c0800000000000000
+      internalID: -4322805679524993261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_7
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1693
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d5111ac3c2ddc70800000000000000
+      internalID: 8997396269468048650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1488
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd29dd22d2871ff00800000000000000
+      internalID: 1148831515209994972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1657
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eea95ccb04cc60d0800000000000000
+      internalID: -3428149661383676185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_10
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1656
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479cd35997b66d5b0800000000000000
+      internalID: -5343965737889445516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1459
+        width: 148
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418cfa54d6a397d10800000000000000
+      internalID: 2123792940276893716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1442
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adf59502800e7c80800000000000000
+      internalID: -8323214502894633566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1305
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d014497e71a7d98d0800000000000000
+      internalID: -2837977947085455091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1228
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc51a88567783c740800000000000000
+      internalID: 5171125739512796621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1075
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01083baa1091030f0800000000000000
+      internalID: -1139383210775183344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1100
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76584f08cf032fea0800000000000000
+      internalID: -5840551905692711577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 913
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e203200487e3fb0800000000000000
+      internalID: -4666159947599303120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 978
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494e586ae7b57b770800000000000000
+      internalID: 8626464210769274004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 894
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b23c4f54f3b9e6f0800000000000000
+      internalID: -654794408653475144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 846
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80ee5f5febbcd110800000000000000
+      internalID: 1287110230292750476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 807
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634128c2db9724ca0800000000000000
+      internalID: -6034126697320541130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 739
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405f7b8fc974b9ff0800000000000000
+      internalID: -28350233134500604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 584
+        width: 141
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8650ac62fc3abacb0800000000000000
+      internalID: -4851604063457245848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 526
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4a710f6485eb120800000000000000
+      internalID: 2431477910525682872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 317
+        width: 153
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a1abe9d38756730800000000000000
+      internalID: 3991728850785147424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 323
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02438efb2f419fc10800000000000000
+      internalID: 2087722935097242656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_27
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 322
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532ead3aaecae10a0800000000000000
+      internalID: -6908894654568406475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 219
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c300f0d262081dc10800000000000000
+      internalID: 2076581804647579708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 235
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39f96a18725e4b0800000000000000
+      internalID: -5411875939416042581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 190
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf6f9e9e5d995c80800000000000000
+      internalID: -8333456605758656570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 95
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfbcbec1a52570e0800000000000000
+      internalID: -2272869060050108494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 64
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb5f784bd8ef5d00800000000000000
+      internalID: 963744873792363485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_GRADIENT_CHARGE-5_33
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 63
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eb6353516587700800000000000000
+      internalID: 538274804557856404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TALUS_GRADIENT_CHARGE-5_0: -196512789589716190
+      TALUS_GRADIENT_CHARGE-5_1: -4795157944838505749
+      TALUS_GRADIENT_CHARGE-5_10: -5343965737889445516
+      TALUS_GRADIENT_CHARGE-5_11: 2123792940276893716
+      TALUS_GRADIENT_CHARGE-5_12: -8323214502894633566
+      TALUS_GRADIENT_CHARGE-5_13: -2837977947085455091
+      TALUS_GRADIENT_CHARGE-5_14: 5171125739512796621
+      TALUS_GRADIENT_CHARGE-5_15: -1139383210775183344
+      TALUS_GRADIENT_CHARGE-5_16: -5840551905692711577
+      TALUS_GRADIENT_CHARGE-5_17: -4666159947599303120
+      TALUS_GRADIENT_CHARGE-5_18: 8626464210769274004
+      TALUS_GRADIENT_CHARGE-5_19: -654794408653475144
+      TALUS_GRADIENT_CHARGE-5_2: -6865421435983484220
+      TALUS_GRADIENT_CHARGE-5_20: 1287110230292750476
+      TALUS_GRADIENT_CHARGE-5_21: -6034126697320541130
+      TALUS_GRADIENT_CHARGE-5_22: -28350233134500604
+      TALUS_GRADIENT_CHARGE-5_23: -4851604063457245848
+      TALUS_GRADIENT_CHARGE-5_24: 2431477910525682872
+      TALUS_GRADIENT_CHARGE-5_25: 3991728850785147424
+      TALUS_GRADIENT_CHARGE-5_26: 2087722935097242656
+      TALUS_GRADIENT_CHARGE-5_27: -6908894654568406475
+      TALUS_GRADIENT_CHARGE-5_28: 2076581804647579708
+      TALUS_GRADIENT_CHARGE-5_29: -5411875939416042581
+      TALUS_GRADIENT_CHARGE-5_3: -2695244073627091821
+      TALUS_GRADIENT_CHARGE-5_30: -8333456605758656570
+      TALUS_GRADIENT_CHARGE-5_31: -2272869060050108494
+      TALUS_GRADIENT_CHARGE-5_32: 963744873792363485
+      TALUS_GRADIENT_CHARGE-5_33: 538274804557856404
+      TALUS_GRADIENT_CHARGE-5_4: 3220609779681476124
+      TALUS_GRADIENT_CHARGE-5_5: -6087955384194101235
+      TALUS_GRADIENT_CHARGE-5_6: -4322805679524993261
+      TALUS_GRADIENT_CHARGE-5_7: 8997396269468048650
+      TALUS_GRADIENT_CHARGE-5_8: 1148831515209994972
+      TALUS_GRADIENT_CHARGE-5_9: -3428149661383676185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

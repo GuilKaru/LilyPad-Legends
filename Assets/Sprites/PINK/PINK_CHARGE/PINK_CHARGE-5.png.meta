@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 0a0524a5d5ce2e240beed8a9bd5e4b81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6608491308993527850
+    second: PINK_CHARGE-5_0
+  - first:
+      213: -2368565263423318017
+    second: PINK_CHARGE-5_1
+  - first:
+      213: -56344163384729636
+    second: PINK_CHARGE-5_2
+  - first:
+      213: 1633836237432394439
+    second: PINK_CHARGE-5_3
+  - first:
+      213: -3041223714983346291
+    second: PINK_CHARGE-5_4
+  - first:
+      213: -3609111389957506901
+    second: PINK_CHARGE-5_5
+  - first:
+      213: -5658642578556245570
+    second: PINK_CHARGE-5_6
+  - first:
+      213: -2827753874764539057
+    second: PINK_CHARGE-5_7
+  - first:
+      213: 5648340686991747591
+    second: PINK_CHARGE-5_8
+  - first:
+      213: -479298344022687485
+    second: PINK_CHARGE-5_9
+  - first:
+      213: 9084797783370754475
+    second: PINK_CHARGE-5_10
+  - first:
+      213: 676748135430409691
+    second: PINK_CHARGE-5_11
+  - first:
+      213: -5278191971506310463
+    second: PINK_CHARGE-5_12
+  - first:
+      213: 5062838999762959016
+    second: PINK_CHARGE-5_13
+  - first:
+      213: -8248199115111696371
+    second: PINK_CHARGE-5_14
+  - first:
+      213: -6756833620440694781
+    second: PINK_CHARGE-5_15
+  - first:
+      213: -4971802184744715510
+    second: PINK_CHARGE-5_16
+  - first:
+      213: 3247931656577566954
+    second: PINK_CHARGE-5_17
+  - first:
+      213: -125766620893338454
+    second: PINK_CHARGE-5_18
+  - first:
+      213: -2208785487033827165
+    second: PINK_CHARGE-5_19
+  - first:
+      213: 8474686546128155325
+    second: PINK_CHARGE-5_20
+  - first:
+      213: -3741713192304249246
+    second: PINK_CHARGE-5_21
+  - first:
+      213: 2795694938667893
+    second: PINK_CHARGE-5_22
+  - first:
+      213: 758271708069715151
+    second: PINK_CHARGE-5_23
+  - first:
+      213: -3203063561097543173
+    second: PINK_CHARGE-5_24
+  - first:
+      213: -8652569797356025546
+    second: PINK_CHARGE-5_25
+  - first:
+      213: 1378287316099473298
+    second: PINK_CHARGE-5_26
+  - first:
+      213: 4601757194231918297
+    second: PINK_CHARGE-5_27
+  - first:
+      213: -4408414185560182600
+    second: PINK_CHARGE-5_28
+  - first:
+      213: 2603685250843437929
+    second: PINK_CHARGE-5_29
+  - first:
+      213: 1413186283226593626
+    second: PINK_CHARGE-5_30
+  - first:
+      213: 1018866946009278781
+    second: PINK_CHARGE-5_31
+  - first:
+      213: -1520013509545967418
+    second: PINK_CHARGE-5_32
+  - first:
+      213: 8949580292979398194
+    second: PINK_CHARGE-5_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1888
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df3f22fa2ce944a0800000000000000
+      internalID: -6608491308993527850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1840
+        width: 107
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7d25e217a212fd0800000000000000
+      internalID: -2368565263423318017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 1690
+        height: 2036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf594c2843d73ff0800000000000000
+      internalID: -56344163384729636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_3
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1799
+        width: 135
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c29159c66d8ca610800000000000000
+      internalID: 1633836237432394439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_4
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1872
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f7ce1f4276bc5d0800000000000000
+      internalID: -3041223714983346291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1733
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba834ce005cd9edc0800000000000000
+      internalID: -3609111389957506901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1684
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9214a3e867871b0800000000000000
+      internalID: -5658642578556245570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_7
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1693
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bdc6e35dcc1c8d0800000000000000
+      internalID: -2827753874764539057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1488
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a678abdefe26e40800000000000000
+      internalID: 5648340686991747591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1657
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301481f02b03959f0800000000000000
+      internalID: -479298344022687485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_10
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1656
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9e11e537fa31e70800000000000000
+      internalID: 9084797783370754475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1459
+        width: 148
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddccb6f7da446900800000000000000
+      internalID: 676748135430409691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1442
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c23c02fd5810c6b0800000000000000
+      internalID: -5278191971506310463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1305
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa7dd70f31d24640800000000000000
+      internalID: 5062838999762959016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1228
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08731b0b92888d80800000000000000
+      internalID: -8248199115111696371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1075
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30047371f97ea32a0800000000000000
+      internalID: -6756833620440694781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1100
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bb7c4314c900bb0800000000000000
+      internalID: -4971802184744715510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 913
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae84d0522a8f21d20800000000000000
+      internalID: 3247931656577566954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 978
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa42d05bcef214ef0800000000000000
+      internalID: -125766620893338454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 894
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a08f4c5d41d851e0800000000000000
+      internalID: -2208785487033827165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 846
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db230cc43822c9570800000000000000
+      internalID: 8474686546128155325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 807
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266ff411da3c21cc0800000000000000
+      internalID: -3741713192304249246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 739
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b38b37baee90000800000000000000
+      internalID: 2795694938667893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 584
+        width: 141
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc59bad91ce58a00800000000000000
+      internalID: 758271708069715151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 526
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf188c769ae6c83d0800000000000000
+      internalID: -3203063561097543173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 317
+        width: 153
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6390252dc95ebe780800000000000000
+      internalID: -8652569797356025546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 323
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f1982f209a02310800000000000000
+      internalID: 1378287316099473298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_27
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 322
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deaac879c9bcdf30800000000000000
+      internalID: 4601757194231918297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 219
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b074eea7aa22d2c0800000000000000
+      internalID: -4408414185560182600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 235
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b6273d0f5222420800000000000000
+      internalID: 2603685250843437929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 190
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59fc2def65ac9310800000000000000
+      internalID: 1413186283226593626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 95
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d392546d61eb32e00800000000000000
+      internalID: 1018866946009278781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 64
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c7b534c3d7eae0800000000000000
+      internalID: -1520013509545967418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PINK_CHARGE-5_33
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 63
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2369fdb0cdb433c70800000000000000
+      internalID: 8949580292979398194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PINK_CHARGE-5_0: -6608491308993527850
+      PINK_CHARGE-5_1: -2368565263423318017
+      PINK_CHARGE-5_10: 9084797783370754475
+      PINK_CHARGE-5_11: 676748135430409691
+      PINK_CHARGE-5_12: -5278191971506310463
+      PINK_CHARGE-5_13: 5062838999762959016
+      PINK_CHARGE-5_14: -8248199115111696371
+      PINK_CHARGE-5_15: -6756833620440694781
+      PINK_CHARGE-5_16: -4971802184744715510
+      PINK_CHARGE-5_17: 3247931656577566954
+      PINK_CHARGE-5_18: -125766620893338454
+      PINK_CHARGE-5_19: -2208785487033827165
+      PINK_CHARGE-5_2: -56344163384729636
+      PINK_CHARGE-5_20: 8474686546128155325
+      PINK_CHARGE-5_21: -3741713192304249246
+      PINK_CHARGE-5_22: 2795694938667893
+      PINK_CHARGE-5_23: 758271708069715151
+      PINK_CHARGE-5_24: -3203063561097543173
+      PINK_CHARGE-5_25: -8652569797356025546
+      PINK_CHARGE-5_26: 1378287316099473298
+      PINK_CHARGE-5_27: 4601757194231918297
+      PINK_CHARGE-5_28: -4408414185560182600
+      PINK_CHARGE-5_29: 2603685250843437929
+      PINK_CHARGE-5_3: 1633836237432394439
+      PINK_CHARGE-5_30: 1413186283226593626
+      PINK_CHARGE-5_31: 1018866946009278781
+      PINK_CHARGE-5_32: -1520013509545967418
+      PINK_CHARGE-5_33: 8949580292979398194
+      PINK_CHARGE-5_4: -3041223714983346291
+      PINK_CHARGE-5_5: -3609111389957506901
+      PINK_CHARGE-5_6: -5658642578556245570
+      PINK_CHARGE-5_7: -2827753874764539057
+      PINK_CHARGE-5_8: 5648340686991747591
+      PINK_CHARGE-5_9: -479298344022687485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

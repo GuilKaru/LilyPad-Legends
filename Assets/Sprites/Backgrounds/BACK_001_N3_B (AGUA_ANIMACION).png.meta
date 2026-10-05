@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: f2abfbd71d233b44dbc5c53388c0ff5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8479661380826677948
+    second: BACK_001_N3_B (AGUA_ANIMACION)_0
+  - first:
+      213: -8683133555256007449
+    second: BACK_001_N3_B (AGUA_ANIMACION)_1
+  - first:
+      213: 5971823682534001906
+    second: BACK_001_N3_B (AGUA_ANIMACION)_2
+  - first:
+      213: 8256181665775651377
+    second: BACK_001_N3_B (AGUA_ANIMACION)_3
+  - first:
+      213: 488450087505059223
+    second: BACK_001_N3_B (AGUA_ANIMACION)_4
+  - first:
+      213: -6557832072572574228
+    second: BACK_001_N3_B (AGUA_ANIMACION)_5
+  - first:
+      213: -1040567009070445222
+    second: BACK_001_N3_B (AGUA_ANIMACION)_6
+  - first:
+      213: -1160217841109264173
+    second: BACK_001_N3_B (AGUA_ANIMACION)_7
+  - first:
+      213: -293510521169012638
+    second: BACK_001_N3_B (AGUA_ANIMACION)_8
+  - first:
+      213: -4479240035282286330
+    second: BACK_001_N3_B (AGUA_ANIMACION)_9
+  - first:
+      213: -1755687727255256606
+    second: BACK_001_N3_B (AGUA_ANIMACION)_10
+  - first:
+      213: -3949475658485659390
+    second: BACK_001_N3_B (AGUA_ANIMACION)_11
+  - first:
+      213: -7565412282579613714
+    second: BACK_001_N3_B (AGUA_ANIMACION)_12
+  - first:
+      213: 846390767782879124
+    second: BACK_001_N3_B (AGUA_ANIMACION)_13
+  - first:
+      213: 2358317509884471519
+    second: BACK_001_N3_B (AGUA_ANIMACION)_14
+  - first:
+      213: 1137157268581310260
+    second: BACK_001_N3_B (AGUA_ANIMACION)_15
+  - first:
+      213: 6058288287566758405
+    second: BACK_001_N3_B (AGUA_ANIMACION)_16
+  - first:
+      213: 4464363395047248600
+    second: BACK_001_N3_B (AGUA_ANIMACION)_17
+  - first:
+      213: 7132090792667529145
+    second: BACK_001_N3_B (AGUA_ANIMACION)_18
+  - first:
+      213: 4559389674851313706
+    second: BACK_001_N3_B (AGUA_ANIMACION)_19
+  - first:
+      213: -7105332505225850244
+    second: BACK_001_N3_B (AGUA_ANIMACION)_20
+  - first:
+      213: -7835003074458671571
+    second: BACK_001_N3_B (AGUA_ANIMACION)_21
+  - first:
+      213: 1907002942354692964
+    second: BACK_001_N3_B (AGUA_ANIMACION)_22
+  - first:
+      213: 5828944246126485731
+    second: BACK_001_N3_B (AGUA_ANIMACION)_23
+  - first:
+      213: -5613000060418580716
+    second: BACK_001_N3_B (AGUA_ANIMACION)_24
+  - first:
+      213: -3834050940410960018
+    second: BACK_001_N3_B (AGUA_ANIMACION)_25
+  - first:
+      213: 6874946388964762284
+    second: BACK_001_N3_B (AGUA_ANIMACION)_26
+  - first:
+      213: -3282116557650668233
+    second: BACK_001_N3_B (AGUA_ANIMACION)_27
+  - first:
+      213: -4713537603604508426
+    second: BACK_001_N3_B (AGUA_ANIMACION)_28
+  - first:
+      213: -3019866684209966747
+    second: BACK_001_N3_B (AGUA_ANIMACION)_29
+  - first:
+      213: 2434798126919208908
+    second: BACK_001_N3_B (AGUA_ANIMACION)_30
+  - first:
+      213: -4046508794154824698
+    second: BACK_001_N3_B (AGUA_ANIMACION)_31
+  - first:
+      213: 8988631557458632633
+    second: BACK_001_N3_B (AGUA_ANIMACION)_32
+  - first:
+      213: -4675264767390665558
+    second: BACK_001_N3_B (AGUA_ANIMACION)_33
+  - first:
+      213: 6281508646484535495
+    second: BACK_001_N3_B (AGUA_ANIMACION)_34
+  - first:
+      213: 3982961859531277404
+    second: BACK_001_N3_B (AGUA_ANIMACION)_35
+  - first:
+      213: 6530638861471654277
+    second: BACK_001_N3_B (AGUA_ANIMACION)_36
+  - first:
+      213: 7336975959696049282
+    second: BACK_001_N3_B (AGUA_ANIMACION)_37
+  - first:
+      213: 8611723127433226425
+    second: BACK_001_N3_B (AGUA_ANIMACION)_38
+  - first:
+      213: 1529364260829647492
+    second: BACK_001_N3_B (AGUA_ANIMACION)_39
+  - first:
+      213: -4395278713524338091
+    second: BACK_001_N3_B (AGUA_ANIMACION)_40
+  - first:
+      213: -1922610123842287789
+    second: BACK_001_N3_B (AGUA_ANIMACION)_41
+  - first:
+      213: 238422428499716661
+    second: BACK_001_N3_B (AGUA_ANIMACION)_42
+  - first:
+      213: 3665144769631968284
+    second: BACK_001_N3_B (AGUA_ANIMACION)_43
+  - first:
+      213: -803062102622102185
+    second: BACK_001_N3_B (AGUA_ANIMACION)_44
+  - first:
+      213: 6813470787111018545
+    second: BACK_001_N3_B (AGUA_ANIMACION)_45
+  - first:
+      213: -828204223117739018
+    second: BACK_001_N3_B (AGUA_ANIMACION)_46
+  - first:
+      213: 6141848850761746501
+    second: BACK_001_N3_B (AGUA_ANIMACION)_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_0
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 482
+        width: 230
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d3a3cb6e0325a80800000000000000
+      internalID: -8479661380826677948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_1
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 475
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4e0b569005f7780800000000000000
+      internalID: -8683133555256007449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 356
+        width: 421
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc44bacffd20e250800000000000000
+      internalID: 5971823682534001906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_3
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 450
+        width: 142
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a86ad5b79d39270800000000000000
+      internalID: 8256181665775651377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_4
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 394
+        width: 324
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d5f3444c257c600800000000000000
+      internalID: 488450087505059223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_5
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 441
+        width: 191
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5e5a19976edf4a0800000000000000
+      internalID: -6557832072572574228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_6
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 446
+        width: 96
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8d5381d92f81f0800000000000000
+      internalID: -1040567009070445222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_7
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 323
+        width: 671
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d89c96450416efe0800000000000000
+      internalID: -1160217841109264173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_8
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 436
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26891ef6cbd3debf0800000000000000
+      internalID: -293510521169012638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_9
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 371
+        width: 333
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6098a418bea86d1c0800000000000000
+      internalID: -4479240035282286330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_10
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 427
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e10078605b82a7e0800000000000000
+      internalID: -1755687727255256606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 360
+        width: 140
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20909e650d4a039c0800000000000000
+      internalID: -3949475658485659390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_12
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 394
+        width: 103
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7077dbc91420790800000000000000
+      internalID: -7565412282579613714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_13
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 379
+        width: 119
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f5ede3bebfebb00800000000000000
+      internalID: 846390767782879124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 269
+        width: 140
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd86f34c74d6ab020800000000000000
+      internalID: 2358317509884471519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 338
+        width: 82
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fda87c28ef7cf00800000000000000
+      internalID: 1137157268581310260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_16
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 364
+        width: 233
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502835f691d531450800000000000000
+      internalID: 6058288287566758405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_17
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 360
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d25c06cada94fd30800000000000000
+      internalID: 4464363395047248600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_18
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 339
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf38cad9c64af260800000000000000
+      internalID: 7132090792667529145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 292
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28a81aa0c4364f30800000000000000
+      internalID: 4559389674851313706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 318
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c721afe6bb9c46d90800000000000000
+      internalID: -7105332505225850244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_21
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 329
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d262cc4273a744390800000000000000
+      internalID: -7835003074458671571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 288
+        width: 138
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b1da48219077a10800000000000000
+      internalID: 1907002942354692964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_23
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 300
+        width: 97
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e02de5a8e194e050800000000000000
+      internalID: 5828944246126485731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_24
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 282
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f118a1f2e9a12b0800000000000000
+      internalID: -5613000060418580716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_25
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 272
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e676d0ebbf6bacac0800000000000000
+      internalID: -3834050940410960018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 231
+        width: 100
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca26914d057b86f50800000000000000
+      internalID: 6874946388964762284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_27
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 229
+        width: 190
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735ddc551649372d0800000000000000
+      internalID: -3282116557650668233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_28
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 229
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f015bdd586269eb0800000000000000
+      internalID: -4713537603604508426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_29
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 230
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561d0aa20474716d0800000000000000
+      internalID: -3019866684209966747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 209
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf4ece0ff32ac120800000000000000
+      internalID: 2434798126919208908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_31
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 181
+        width: 120
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c48e7e0b9e7d7c0800000000000000
+      internalID: -4046508794154824698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_32
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 185
+        width: 121
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf103717c80ebc70800000000000000
+      internalID: 8988631557458632633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 172
+        width: 84
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4b7c4f67f1e1fb0800000000000000
+      internalID: -4675264767390665558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_34
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 186
+        width: 85
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8614745d66c2750800000000000000
+      internalID: 6281508646484535495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_35
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 180
+        width: 76
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c548a4765b2564730800000000000000
+      internalID: 3982961859531277404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_36
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 167
+        width: 111
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5812166917d71aa50800000000000000
+      internalID: 6530638861471654277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_37
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 146
+        width: 86
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284834b23cc22d560800000000000000
+      internalID: 7336975959696049282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_38
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 142
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86caabe8cf28770800000000000000
+      internalID: 8611723127433226425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_39
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 124
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482ddea31b4693510800000000000000
+      internalID: 1529364260829647492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_40
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 116
+        width: 90
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552cb871c45d003c0800000000000000
+      internalID: -4395278713524338091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_41
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 109
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3578fce57448155e0800000000000000
+      internalID: -1922610123842287789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_42
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 99
+        width: 83
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a263d7feb0f4300800000000000000
+      internalID: 238422428499716661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_43
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 111
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c5b4ccfb53dd230800000000000000
+      internalID: 3665144769631968284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 82
+        width: 130
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d91a0c543fad4f0800000000000000
+      internalID: -803062102622102185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_45
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 78
+        width: 142
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130e041e49f4e8e50800000000000000
+      internalID: 6813470787111018545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 67
+        width: 122
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbb697a5a0a184f0800000000000000
+      internalID: -828204223117739018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACK_001_N3_B (AGUA_ANIMACION)_47
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 63
+        width: 107
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5488bc52dfa3c3550800000000000000
+      internalID: 6141848850761746501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BACK_001_N3_B (AGUA_ANIMACION)_0: -8479661380826677948
+      BACK_001_N3_B (AGUA_ANIMACION)_1: -8683133555256007449
+      BACK_001_N3_B (AGUA_ANIMACION)_10: -1755687727255256606
+      BACK_001_N3_B (AGUA_ANIMACION)_11: -3949475658485659390
+      BACK_001_N3_B (AGUA_ANIMACION)_12: -7565412282579613714
+      BACK_001_N3_B (AGUA_ANIMACION)_13: 846390767782879124
+      BACK_001_N3_B (AGUA_ANIMACION)_14: 2358317509884471519
+      BACK_001_N3_B (AGUA_ANIMACION)_15: 1137157268581310260
+      BACK_001_N3_B (AGUA_ANIMACION)_16: 6058288287566758405
+      BACK_001_N3_B (AGUA_ANIMACION)_17: 4464363395047248600
+      BACK_001_N3_B (AGUA_ANIMACION)_18: 7132090792667529145
+      BACK_001_N3_B (AGUA_ANIMACION)_19: 4559389674851313706
+      BACK_001_N3_B (AGUA_ANIMACION)_2: 5971823682534001906
+      BACK_001_N3_B (AGUA_ANIMACION)_20: -7105332505225850244
+      BACK_001_N3_B (AGUA_ANIMACION)_21: -7835003074458671571
+      BACK_001_N3_B (AGUA_ANIMACION)_22: 1907002942354692964
+      BACK_001_N3_B (AGUA_ANIMACION)_23: 5828944246126485731
+      BACK_001_N3_B (AGUA_ANIMACION)_24: -5613000060418580716
+      BACK_001_N3_B (AGUA_ANIMACION)_25: -3834050940410960018
+      BACK_001_N3_B (AGUA_ANIMACION)_26: 6874946388964762284
+      BACK_001_N3_B (AGUA_ANIMACION)_27: -3282116557650668233
+      BACK_001_N3_B (AGUA_ANIMACION)_28: -4713537603604508426
+      BACK_001_N3_B (AGUA_ANIMACION)_29: -3019866684209966747
+      BACK_001_N3_B (AGUA_ANIMACION)_3: 8256181665775651377
+      BACK_001_N3_B (AGUA_ANIMACION)_30: 2434798126919208908
+      BACK_001_N3_B (AGUA_ANIMACION)_31: -4046508794154824698
+      BACK_001_N3_B (AGUA_ANIMACION)_32: 8988631557458632633
+      BACK_001_N3_B (AGUA_ANIMACION)_33: -4675264767390665558
+      BACK_001_N3_B (AGUA_ANIMACION)_34: 6281508646484535495
+      BACK_001_N3_B (AGUA_ANIMACION)_35: 3982961859531277404
+      BACK_001_N3_B (AGUA_ANIMACION)_36: 6530638861471654277
+      BACK_001_N3_B (AGUA_ANIMACION)_37: 7336975959696049282
+      BACK_001_N3_B (AGUA_ANIMACION)_38: 8611723127433226425
+      BACK_001_N3_B (AGUA_ANIMACION)_39: 1529364260829647492
+      BACK_001_N3_B (AGUA_ANIMACION)_4: 488450087505059223
+      BACK_001_N3_B (AGUA_ANIMACION)_40: -4395278713524338091
+      BACK_001_N3_B (AGUA_ANIMACION)_41: -1922610123842287789
+      BACK_001_N3_B (AGUA_ANIMACION)_42: 238422428499716661
+      BACK_001_N3_B (AGUA_ANIMACION)_43: 3665144769631968284
+      BACK_001_N3_B (AGUA_ANIMACION)_44: -803062102622102185
+      BACK_001_N3_B (AGUA_ANIMACION)_45: 6813470787111018545
+      BACK_001_N3_B (AGUA_ANIMACION)_46: -828204223117739018
+      BACK_001_N3_B (AGUA_ANIMACION)_47: 6141848850761746501
+      BACK_001_N3_B (AGUA_ANIMACION)_5: -6557832072572574228
+      BACK_001_N3_B (AGUA_ANIMACION)_6: -1040567009070445222
+      BACK_001_N3_B (AGUA_ANIMACION)_7: -1160217841109264173
+      BACK_001_N3_B (AGUA_ANIMACION)_8: -293510521169012638
+      BACK_001_N3_B (AGUA_ANIMACION)_9: -4479240035282286330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

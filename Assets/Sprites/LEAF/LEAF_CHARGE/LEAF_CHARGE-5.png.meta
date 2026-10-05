@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 50fd19ac9be41534da83810d4abf3179
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21224501078182134
+    second: LEAF_CHARGE-5_0
+  - first:
+      213: 2275237414722327255
+    second: LEAF_CHARGE-5_1
+  - first:
+      213: -5992751947215123133
+    second: LEAF_CHARGE-5_2
+  - first:
+      213: -6318832147308129084
+    second: LEAF_CHARGE-5_3
+  - first:
+      213: 6206402256350576640
+    second: LEAF_CHARGE-5_4
+  - first:
+      213: -3056654485197065966
+    second: LEAF_CHARGE-5_5
+  - first:
+      213: -7211384244189493681
+    second: LEAF_CHARGE-5_6
+  - first:
+      213: 8550974544472554312
+    second: LEAF_CHARGE-5_7
+  - first:
+      213: -8306147143656672863
+    second: LEAF_CHARGE-5_8
+  - first:
+      213: -2177411847154118873
+    second: LEAF_CHARGE-5_9
+  - first:
+      213: 7247798256594662239
+    second: LEAF_CHARGE-5_10
+  - first:
+      213: -8662223694195660391
+    second: LEAF_CHARGE-5_11
+  - first:
+      213: 8774771148387593222
+    second: LEAF_CHARGE-5_12
+  - first:
+      213: -3209846859627710616
+    second: LEAF_CHARGE-5_13
+  - first:
+      213: -1202658257361324073
+    second: LEAF_CHARGE-5_14
+  - first:
+      213: 593264630693259205
+    second: LEAF_CHARGE-5_15
+  - first:
+      213: 4993891525181367064
+    second: LEAF_CHARGE-5_16
+  - first:
+      213: -4541224619561428284
+    second: LEAF_CHARGE-5_17
+  - first:
+      213: -1610774305854333742
+    second: LEAF_CHARGE-5_18
+  - first:
+      213: -284547106240496230
+    second: LEAF_CHARGE-5_19
+  - first:
+      213: 781671986390142776
+    second: LEAF_CHARGE-5_20
+  - first:
+      213: 5393218176410952362
+    second: LEAF_CHARGE-5_21
+  - first:
+      213: 7362273097601911557
+    second: LEAF_CHARGE-5_22
+  - first:
+      213: -1272182374846758241
+    second: LEAF_CHARGE-5_23
+  - first:
+      213: -1096794897159055725
+    second: LEAF_CHARGE-5_24
+  - first:
+      213: -7245206337249890272
+    second: LEAF_CHARGE-5_25
+  - first:
+      213: 4035568346026804963
+    second: LEAF_CHARGE-5_26
+  - first:
+      213: 921045373767605045
+    second: LEAF_CHARGE-5_27
+  - first:
+      213: 8026840592767143512
+    second: LEAF_CHARGE-5_28
+  - first:
+      213: 6654818462397213863
+    second: LEAF_CHARGE-5_29
+  - first:
+      213: -7279963586556651547
+    second: LEAF_CHARGE-5_30
+  - first:
+      213: 6985877670466589914
+    second: LEAF_CHARGE-5_31
+  - first:
+      213: -3219987497264149904
+    second: LEAF_CHARGE-5_32
+  - first:
+      213: -4715068200923582316
+    second: LEAF_CHARGE-5_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1888
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8cc4f32976b4000800000000000000
+      internalID: 21224501078182134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1840
+        width: 107
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2d33cbf54439f10800000000000000
+      internalID: 2275237414722327255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 1690
+        height: 2036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d463fdad775dca0800000000000000
+      internalID: -5992751947215123133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_3
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1799
+        width: 135
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4516004affe48a0800000000000000
+      internalID: -6318832147308129084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_4
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1872
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00085fe18f1912650800000000000000
+      internalID: 6206402256350576640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1733
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21179b8c0f49495d0800000000000000
+      internalID: -3056654485197065966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1684
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f468c3acc340ceb90800000000000000
+      internalID: -7211384244189493681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_7
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1693
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bb1be0b0a2ba670800000000000000
+      internalID: 8550974544472554312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1488
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1f7324e23aabc80800000000000000
+      internalID: -8306147143656672863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1657
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fc6a0267748c1e0800000000000000
+      internalID: -2177411847154118873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_10
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1656
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5335082d1a559460800000000000000
+      internalID: 7247798256594662239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1459
+        width: 148
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999ee7ec17999c780800000000000000
+      internalID: -8662223694195660391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1442
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c2df46edf36c970800000000000000
+      internalID: 8774771148387593222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1305
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867bc74a9455473d0800000000000000
+      internalID: -3209846859627710616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1228
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7b9c7dfac4f4fe0800000000000000
+      internalID: -1202658257361324073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1075
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c76642d903bb3800800000000000000
+      internalID: 593264630693259205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1100
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e44522eddd4540800000000000000
+      internalID: 4993891525181367064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 913
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca58c9d4445af0c0800000000000000
+      internalID: -4541224619561428284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 978
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd9369d4165a9e0800000000000000
+      internalID: -1610774305854333742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 894
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d7baa1ae51d0cf0800000000000000
+      internalID: -284547106240496230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 846
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f88a7b78e09da00800000000000000
+      internalID: 781671986390142776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 807
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2a7216b5f88da40800000000000000
+      internalID: 5393218176410952362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 739
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b0af1106c0c2660800000000000000
+      internalID: 7362273097601911557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 584
+        width: 141
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f920fb1dedc485ee0800000000000000
+      internalID: -1272182374846758241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 526
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3969f532ad667c0f0800000000000000
+      internalID: -1096794897159055725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 317
+        width: 153
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020bfc7193bd37b90800000000000000
+      internalID: -7245206337249890272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 323
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e60db38708310830800000000000000
+      internalID: 4035568346026804963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_27
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 322
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b5f6533e538cc00800000000000000
+      internalID: 921045373767605045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 219
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e4298bdf0156f60800000000000000
+      internalID: 8026840592767143512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 235
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aca5eff12aaa5c50800000000000000
+      internalID: 6654818462397213863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 190
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7138d50bf58fa90800000000000000
+      internalID: -7279963586556651547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 95
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad49e708ab2d2f060800000000000000
+      internalID: 6985877670466589914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 64
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a0f547e6e4053d0800000000000000
+      internalID: -3219987497264149904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEAF_CHARGE-5_33
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 63
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b538e376b09eb0800000000000000
+      internalID: -4715068200923582316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LEAF_CHARGE-5_0: 21224501078182134
+      LEAF_CHARGE-5_1: 2275237414722327255
+      LEAF_CHARGE-5_10: 7247798256594662239
+      LEAF_CHARGE-5_11: -8662223694195660391
+      LEAF_CHARGE-5_12: 8774771148387593222
+      LEAF_CHARGE-5_13: -3209846859627710616
+      LEAF_CHARGE-5_14: -1202658257361324073
+      LEAF_CHARGE-5_15: 593264630693259205
+      LEAF_CHARGE-5_16: 4993891525181367064
+      LEAF_CHARGE-5_17: -4541224619561428284
+      LEAF_CHARGE-5_18: -1610774305854333742
+      LEAF_CHARGE-5_19: -284547106240496230
+      LEAF_CHARGE-5_2: -5992751947215123133
+      LEAF_CHARGE-5_20: 781671986390142776
+      LEAF_CHARGE-5_21: 5393218176410952362
+      LEAF_CHARGE-5_22: 7362273097601911557
+      LEAF_CHARGE-5_23: -1272182374846758241
+      LEAF_CHARGE-5_24: -1096794897159055725
+      LEAF_CHARGE-5_25: -7245206337249890272
+      LEAF_CHARGE-5_26: 4035568346026804963
+      LEAF_CHARGE-5_27: 921045373767605045
+      LEAF_CHARGE-5_28: 8026840592767143512
+      LEAF_CHARGE-5_29: 6654818462397213863
+      LEAF_CHARGE-5_3: -6318832147308129084
+      LEAF_CHARGE-5_30: -7279963586556651547
+      LEAF_CHARGE-5_31: 6985877670466589914
+      LEAF_CHARGE-5_32: -3219987497264149904
+      LEAF_CHARGE-5_33: -4715068200923582316
+      LEAF_CHARGE-5_4: 6206402256350576640
+      LEAF_CHARGE-5_5: -3056654485197065966
+      LEAF_CHARGE-5_6: -7211384244189493681
+      LEAF_CHARGE-5_7: 8550974544472554312
+      LEAF_CHARGE-5_8: -8306147143656672863
+      LEAF_CHARGE-5_9: -2177411847154118873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

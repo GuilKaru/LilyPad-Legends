@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 2dff1e88248e6f641a76f5e884f7637a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4620510128732004581
+    second: TALUS_CHARGE-5_0
+  - first:
+      213: 7619151528880497481
+    second: TALUS_CHARGE-5_1
+  - first:
+      213: -1086427697604470526
+    second: TALUS_CHARGE-5_2
+  - first:
+      213: -4333193483998409730
+    second: TALUS_CHARGE-5_3
+  - first:
+      213: -2469445370945590769
+    second: TALUS_CHARGE-5_4
+  - first:
+      213: 959617289033552890
+    second: TALUS_CHARGE-5_5
+  - first:
+      213: 3311296529949376261
+    second: TALUS_CHARGE-5_6
+  - first:
+      213: 6418123454208394467
+    second: TALUS_CHARGE-5_7
+  - first:
+      213: -1469326985304593775
+    second: TALUS_CHARGE-5_8
+  - first:
+      213: 138104061172084694
+    second: TALUS_CHARGE-5_9
+  - first:
+      213: 4133159419573826398
+    second: TALUS_CHARGE-5_10
+  - first:
+      213: 204548349851042415
+    second: TALUS_CHARGE-5_11
+  - first:
+      213: 158885900710872353
+    second: TALUS_CHARGE-5_12
+  - first:
+      213: 8863527564898608243
+    second: TALUS_CHARGE-5_13
+  - first:
+      213: -1916927923777121641
+    second: TALUS_CHARGE-5_14
+  - first:
+      213: 7478450306831566624
+    second: TALUS_CHARGE-5_15
+  - first:
+      213: 7770870568578236026
+    second: TALUS_CHARGE-5_16
+  - first:
+      213: 2972103791936797429
+    second: TALUS_CHARGE-5_17
+  - first:
+      213: -8063144439337332776
+    second: TALUS_CHARGE-5_18
+  - first:
+      213: -7604494559411251060
+    second: TALUS_CHARGE-5_19
+  - first:
+      213: -8331027245895366923
+    second: TALUS_CHARGE-5_20
+  - first:
+      213: 1429692997153929508
+    second: TALUS_CHARGE-5_21
+  - first:
+      213: -4183332403398285581
+    second: TALUS_CHARGE-5_22
+  - first:
+      213: -4524558587620126735
+    second: TALUS_CHARGE-5_23
+  - first:
+      213: -550284413191504415
+    second: TALUS_CHARGE-5_24
+  - first:
+      213: -7991033848106262141
+    second: TALUS_CHARGE-5_25
+  - first:
+      213: 3034905716501831799
+    second: TALUS_CHARGE-5_26
+  - first:
+      213: -4834066777787875545
+    second: TALUS_CHARGE-5_27
+  - first:
+      213: -603270136443669916
+    second: TALUS_CHARGE-5_28
+  - first:
+      213: -2927146639738403374
+    second: TALUS_CHARGE-5_29
+  - first:
+      213: 5357626146727541705
+    second: TALUS_CHARGE-5_30
+  - first:
+      213: 8458849586864028399
+    second: TALUS_CHARGE-5_31
+  - first:
+      213: 1411392664478879599
+    second: TALUS_CHARGE-5_32
+  - first:
+      213: -1307962115104892824
+    second: TALUS_CHARGE-5_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1888
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e06a284b795f1040800000000000000
+      internalID: 4620510128732004581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1840
+        width: 107
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943ebc092f9acb960800000000000000
+      internalID: 7619151528880497481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 1690
+        height: 2036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209d322e3cb3ce0f0800000000000000
+      internalID: -1086427697604470526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_3
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1799
+        width: 135
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbcc3b0c776dd3c0800000000000000
+      internalID: -4333193483998409730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_4
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1872
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a2e80d484cabdd0800000000000000
+      internalID: -2469445370945590769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1733
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af31b2117de315d00800000000000000
+      internalID: 959617289033552890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1684
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fbd9566a614fd20800000000000000
+      internalID: 3311296529949376261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_7
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1693
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4c1b4e641c11950800000000000000
+      internalID: 6418123454208394467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1488
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a260644e6eb9be0800000000000000
+      internalID: -1469326985304593775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1657
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df633479e4aae100800000000000000
+      internalID: 138104061172084694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_10
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1656
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53f1cbf79eeb5930800000000000000
+      internalID: 4133159419573826398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1459
+        width: 148
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f628344f3a3b6d200800000000000000
+      internalID: 204548349851042415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1442
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12580b782e9743200800000000000000
+      internalID: 158885900710872353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1305
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3742aaafb53910b70800000000000000
+      internalID: 8863527564898608243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1228
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792dc3ba534b565e0800000000000000
+      internalID: -1916927923777121641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1075
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0274b197eeac8c760800000000000000
+      internalID: 7478450306831566624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1100
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eb4ab3c9da7db60800000000000000
+      internalID: 7770870568578236026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 913
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fafbf1e6a80f3920800000000000000
+      internalID: 2972103791936797429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 978
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfc1a05ad4f91090800000000000000
+      internalID: -8063144439337332776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 894
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88d6e11d78677690800000000000000
+      internalID: -7604494559411251060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 846
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f64e4a0cde326c80800000000000000
+      internalID: -8331027245895366923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 807
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4293931c43a47d310800000000000000
+      internalID: 1429692997153929508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 739
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f66016e751d1f5c0800000000000000
+      internalID: -4183332403398285581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 584
+        width: 141
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff857bcfe98531c0800000000000000
+      internalID: -4524558587620126735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 526
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed3942ed3ffc58f0800000000000000
+      internalID: -550284413191504415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 317
+        width: 153
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381e08fad052a1190800000000000000
+      internalID: -7991033848106262141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 323
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770e4e66ba62e1a20800000000000000
+      internalID: 3034905716501831799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_27
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 322
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fbf69a0e1f9ecb0800000000000000
+      internalID: -4834066777787875545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 219
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4627ca5d101c0a7f0800000000000000
+      internalID: -603270136443669916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 235
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d50aecc3afa067d0800000000000000
+      internalID: -2927146639738403374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 190
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb3a03389c1a5a40800000000000000
+      internalID: 5357626146727541705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 95
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea7d71e1eed36570800000000000000
+      internalID: 8458849586864028399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 64
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0bd48626469310800000000000000
+      internalID: 1411392664478879599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TALUS_CHARGE-5_33
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 63
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868118dd26f29dde0800000000000000
+      internalID: -1307962115104892824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TALUS_CHARGE-5_0: 4620510128732004581
+      TALUS_CHARGE-5_1: 7619151528880497481
+      TALUS_CHARGE-5_10: 4133159419573826398
+      TALUS_CHARGE-5_11: 204548349851042415
+      TALUS_CHARGE-5_12: 158885900710872353
+      TALUS_CHARGE-5_13: 8863527564898608243
+      TALUS_CHARGE-5_14: -1916927923777121641
+      TALUS_CHARGE-5_15: 7478450306831566624
+      TALUS_CHARGE-5_16: 7770870568578236026
+      TALUS_CHARGE-5_17: 2972103791936797429
+      TALUS_CHARGE-5_18: -8063144439337332776
+      TALUS_CHARGE-5_19: -7604494559411251060
+      TALUS_CHARGE-5_2: -1086427697604470526
+      TALUS_CHARGE-5_20: -8331027245895366923
+      TALUS_CHARGE-5_21: 1429692997153929508
+      TALUS_CHARGE-5_22: -4183332403398285581
+      TALUS_CHARGE-5_23: -4524558587620126735
+      TALUS_CHARGE-5_24: -550284413191504415
+      TALUS_CHARGE-5_25: -7991033848106262141
+      TALUS_CHARGE-5_26: 3034905716501831799
+      TALUS_CHARGE-5_27: -4834066777787875545
+      TALUS_CHARGE-5_28: -603270136443669916
+      TALUS_CHARGE-5_29: -2927146639738403374
+      TALUS_CHARGE-5_3: -4333193483998409730
+      TALUS_CHARGE-5_30: 5357626146727541705
+      TALUS_CHARGE-5_31: 8458849586864028399
+      TALUS_CHARGE-5_32: 1411392664478879599
+      TALUS_CHARGE-5_33: -1307962115104892824
+      TALUS_CHARGE-5_4: -2469445370945590769
+      TALUS_CHARGE-5_5: 959617289033552890
+      TALUS_CHARGE-5_6: 3311296529949376261
+      TALUS_CHARGE-5_7: 6418123454208394467
+      TALUS_CHARGE-5_8: -1469326985304593775
+      TALUS_CHARGE-5_9: 138104061172084694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

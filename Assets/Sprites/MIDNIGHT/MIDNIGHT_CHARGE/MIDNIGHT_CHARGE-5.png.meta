@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 9df40487ca1bb654a81fae1874897ceb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -897500229232269567
+    second: MIDNIGHT_CHARGE-5_0
+  - first:
+      213: -1518152429889310231
+    second: MIDNIGHT_CHARGE-5_1
+  - first:
+      213: 9024027163441274110
+    second: MIDNIGHT_CHARGE-5_2
+  - first:
+      213: -9197305030181729919
+    second: MIDNIGHT_CHARGE-5_3
+  - first:
+      213: -837435368129077262
+    second: MIDNIGHT_CHARGE-5_4
+  - first:
+      213: 1289221824405264972
+    second: MIDNIGHT_CHARGE-5_5
+  - first:
+      213: 7042937324322630604
+    second: MIDNIGHT_CHARGE-5_6
+  - first:
+      213: -7012431306970853497
+    second: MIDNIGHT_CHARGE-5_7
+  - first:
+      213: -3192521751387561175
+    second: MIDNIGHT_CHARGE-5_8
+  - first:
+      213: -1751115495394206155
+    second: MIDNIGHT_CHARGE-5_9
+  - first:
+      213: -7874926888692874970
+    second: MIDNIGHT_CHARGE-5_10
+  - first:
+      213: -5078051545507428601
+    second: MIDNIGHT_CHARGE-5_11
+  - first:
+      213: 6455653643091495256
+    second: MIDNIGHT_CHARGE-5_12
+  - first:
+      213: 2436947677262372545
+    second: MIDNIGHT_CHARGE-5_13
+  - first:
+      213: 5452344934940840799
+    second: MIDNIGHT_CHARGE-5_14
+  - first:
+      213: -947561786834352483
+    second: MIDNIGHT_CHARGE-5_15
+  - first:
+      213: 1962757171444014091
+    second: MIDNIGHT_CHARGE-5_16
+  - first:
+      213: -4814721367277513926
+    second: MIDNIGHT_CHARGE-5_17
+  - first:
+      213: -8407717151858297728
+    second: MIDNIGHT_CHARGE-5_18
+  - first:
+      213: 1050286508231895598
+    second: MIDNIGHT_CHARGE-5_19
+  - first:
+      213: -8691880229043515601
+    second: MIDNIGHT_CHARGE-5_20
+  - first:
+      213: 5709947226722361187
+    second: MIDNIGHT_CHARGE-5_21
+  - first:
+      213: -530198264350430813
+    second: MIDNIGHT_CHARGE-5_22
+  - first:
+      213: -8394754469757219779
+    second: MIDNIGHT_CHARGE-5_23
+  - first:
+      213: -4926202941901399450
+    second: MIDNIGHT_CHARGE-5_24
+  - first:
+      213: 4377279712106813782
+    second: MIDNIGHT_CHARGE-5_25
+  - first:
+      213: 557493681586267992
+    second: MIDNIGHT_CHARGE-5_26
+  - first:
+      213: -5080563635706272555
+    second: MIDNIGHT_CHARGE-5_27
+  - first:
+      213: -3406690088988393782
+    second: MIDNIGHT_CHARGE-5_28
+  - first:
+      213: -3855098655690551223
+    second: MIDNIGHT_CHARGE-5_29
+  - first:
+      213: -896771213316371499
+    second: MIDNIGHT_CHARGE-5_30
+  - first:
+      213: -3494345764814231761
+    second: MIDNIGHT_CHARGE-5_31
+  - first:
+      213: 2457999477843127545
+    second: MIDNIGHT_CHARGE-5_32
+  - first:
+      213: 5273613438134888566
+    second: MIDNIGHT_CHARGE-5_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1888
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10767c2fb407b83f0800000000000000
+      internalID: -897500229232269567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1840
+        width: 107
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e13d8598607eeae0800000000000000
+      internalID: -1518152429889310231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 1690
+        height: 2036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc9460d4e8cb3d70800000000000000
+      internalID: 9024027163441274110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_3
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1799
+        width: 135
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189ca11fdcb9c5080800000000000000
+      internalID: -9197305030181729919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_4
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1872
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff515838f4d064f0800000000000000
+      internalID: -837435368129077262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1733
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a5b503b6c34e110800000000000000
+      internalID: 1289221824405264972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1684
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb279f6e2a8db160800000000000000
+      internalID: 7042937324322630604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_7
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1693
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f8c2831e6deae90800000000000000
+      internalID: -7012431306970853497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1488
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92326deb162e1b3d0800000000000000
+      internalID: -3192521751387561175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1657
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e98581cb9c2b7e0800000000000000
+      internalID: -1751115495394206155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_10
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1656
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6210a47c7b3a6b290800000000000000
+      internalID: -7874926888692874970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1459
+        width: 148
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70708e626032789b0800000000000000
+      internalID: -5078051545507428601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1442
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859cc6de8c6179950800000000000000
+      internalID: 6455653643091495256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1305
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cedf6f3007c1d120800000000000000
+      internalID: 2436947677262372545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1228
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f539c00a4de9aab40800000000000000
+      internalID: 5452344934940840799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1075
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d960105439599d2f0800000000000000
+      internalID: -947561786834352483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1100
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c55409f3d1d3b10800000000000000
+      internalID: 1962757171444014091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 913
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33d0fa0d6cae2db0800000000000000
+      internalID: -4814721367277513926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 978
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084f68fdbc9c15b80800000000000000
+      internalID: -8407717151858297728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 894
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a2c8bb30e539e00800000000000000
+      internalID: 1050286508231895598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 846
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fce95bbfc306780800000000000000
+      internalID: -8691880229043515601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 807
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f530700cecd3f40800000000000000
+      internalID: 5709947226722361187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 739
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a92dd8dc7b54a8f0800000000000000
+      internalID: -530198264350430813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 584
+        width: 141
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c8f7d7947df7b80800000000000000
+      internalID: -8394754469757219779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 526
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a9b74468c92abb0800000000000000
+      internalID: -4926202941901399450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 317
+        width: 153
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65996a2d4b83fbc30800000000000000
+      internalID: 4377279712106813782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 323
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8576977bc8d9cb700800000000000000
+      internalID: 557493681586267992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_27
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 322
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e5f29a463e79b0800000000000000
+      internalID: -5080563635706272555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 219
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceb00ad96109b0d0800000000000000
+      internalID: -3406690088988393782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 235
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9409a75a230ff7ac0800000000000000
+      internalID: -3855098655690551223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 190
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db4b7135570e83f0800000000000000
+      internalID: -896771213316371499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 95
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276bdd6a07918fc0800000000000000
+      internalID: -3494345764814231761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 64
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc6fe680819c1220800000000000000
+      internalID: 2457999477843127545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIDNIGHT_CHARGE-5_33
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 63
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a1ce2b73af2940800000000000000
+      internalID: 5273613438134888566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MIDNIGHT_CHARGE-5_0: -897500229232269567
+      MIDNIGHT_CHARGE-5_1: -1518152429889310231
+      MIDNIGHT_CHARGE-5_10: -7874926888692874970
+      MIDNIGHT_CHARGE-5_11: -5078051545507428601
+      MIDNIGHT_CHARGE-5_12: 6455653643091495256
+      MIDNIGHT_CHARGE-5_13: 2436947677262372545
+      MIDNIGHT_CHARGE-5_14: 5452344934940840799
+      MIDNIGHT_CHARGE-5_15: -947561786834352483
+      MIDNIGHT_CHARGE-5_16: 1962757171444014091
+      MIDNIGHT_CHARGE-5_17: -4814721367277513926
+      MIDNIGHT_CHARGE-5_18: -8407717151858297728
+      MIDNIGHT_CHARGE-5_19: 1050286508231895598
+      MIDNIGHT_CHARGE-5_2: 9024027163441274110
+      MIDNIGHT_CHARGE-5_20: -8691880229043515601
+      MIDNIGHT_CHARGE-5_21: 5709947226722361187
+      MIDNIGHT_CHARGE-5_22: -530198264350430813
+      MIDNIGHT_CHARGE-5_23: -8394754469757219779
+      MIDNIGHT_CHARGE-5_24: -4926202941901399450
+      MIDNIGHT_CHARGE-5_25: 4377279712106813782
+      MIDNIGHT_CHARGE-5_26: 557493681586267992
+      MIDNIGHT_CHARGE-5_27: -5080563635706272555
+      MIDNIGHT_CHARGE-5_28: -3406690088988393782
+      MIDNIGHT_CHARGE-5_29: -3855098655690551223
+      MIDNIGHT_CHARGE-5_3: -9197305030181729919
+      MIDNIGHT_CHARGE-5_30: -896771213316371499
+      MIDNIGHT_CHARGE-5_31: -3494345764814231761
+      MIDNIGHT_CHARGE-5_32: 2457999477843127545
+      MIDNIGHT_CHARGE-5_33: 5273613438134888566
+      MIDNIGHT_CHARGE-5_4: -837435368129077262
+      MIDNIGHT_CHARGE-5_5: 1289221824405264972
+      MIDNIGHT_CHARGE-5_6: 7042937324322630604
+      MIDNIGHT_CHARGE-5_7: -7012431306970853497
+      MIDNIGHT_CHARGE-5_8: -3192521751387561175
+      MIDNIGHT_CHARGE-5_9: -1751115495394206155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 9506d20e0a4c4f9479619a9fc2bb4820
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9064365869133813916
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_0
+  - first:
+      213: -7310402354477182716
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_1
+  - first:
+      213: 5151989882329938256
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_2
+  - first:
+      213: 7610459559034366642
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_3
+  - first:
+      213: 1132852758082807573
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_4
+  - first:
+      213: 4173822512461267784
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_5
+  - first:
+      213: 3581105644249856280
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_6
+  - first:
+      213: 7228830415094950419
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_7
+  - first:
+      213: 4164916029590647903
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_8
+  - first:
+      213: 893452903268965345
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_9
+  - first:
+      213: -3081803259872538781
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_10
+  - first:
+      213: -509966506143342432
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_11
+  - first:
+      213: -6639363447869664803
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_12
+  - first:
+      213: 5159142682387198339
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_13
+  - first:
+      213: 4155172686214811783
+    second: Lilypad Legends_Primary Logo_Stacked version_mint green_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_0
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1145
+        width: 688
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467aa106447e43280800000000000000
+      internalID: -9064365869133813916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 465
+        width: 369
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40155307acb3c8a90800000000000000
+      internalID: -7310402354477182716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 877
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059bea6608b8f7740800000000000000
+      internalID: 5151989882329938256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 593
+        width: 112
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba28b1a5a8cd9960800000000000000
+      internalID: 7610459559034366642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_4
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 503
+        width: 248
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e854d493b8bf00800000000000000
+      internalID: 1132852758082807573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_5
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 559
+        width: 268
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84348c216756ce930800000000000000
+      internalID: 4173822512461267784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_6
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 462
+        width: 346
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819b8a42c94a2b130800000000000000
+      internalID: 3581105644249856280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_7
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 538
+        width: 346
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a264966f6f15460800000000000000
+      internalID: 7228830415094950419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 235
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54b41fef01ccc930800000000000000
+      internalID: 4164916029590647903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_9
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 233
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb53ea8eae266c00800000000000000
+      internalID: 893452903268965345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_10
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 231
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f08a3634c3b35d0800000000000000
+      internalID: -3081803259872538781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_11
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 233
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0aaf12a2c3ce8f0800000000000000
+      internalID: -509966506143342432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_12
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 233
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1140bfe1e3cd3a0800000000000000
+      internalID: -6639363447869664803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_13
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 231
+        width: 100
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381be317fe4f89740800000000000000
+      internalID: 5159142682387198339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad Legends_Primary Logo_Stacked version_mint green_14
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 235
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7805d360b832aa930800000000000000
+      internalID: 4155172686214811783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lilypad Legends_Primary Logo_Stacked version_mint green_0: -9064365869133813916
+      Lilypad Legends_Primary Logo_Stacked version_mint green_1: -7310402354477182716
+      Lilypad Legends_Primary Logo_Stacked version_mint green_10: -3081803259872538781
+      Lilypad Legends_Primary Logo_Stacked version_mint green_11: -509966506143342432
+      Lilypad Legends_Primary Logo_Stacked version_mint green_12: -6639363447869664803
+      Lilypad Legends_Primary Logo_Stacked version_mint green_13: 5159142682387198339
+      Lilypad Legends_Primary Logo_Stacked version_mint green_14: 4155172686214811783
+      Lilypad Legends_Primary Logo_Stacked version_mint green_2: 5151989882329938256
+      Lilypad Legends_Primary Logo_Stacked version_mint green_3: 7610459559034366642
+      Lilypad Legends_Primary Logo_Stacked version_mint green_4: 1132852758082807573
+      Lilypad Legends_Primary Logo_Stacked version_mint green_5: 4173822512461267784
+      Lilypad Legends_Primary Logo_Stacked version_mint green_6: 3581105644249856280
+      Lilypad Legends_Primary Logo_Stacked version_mint green_7: 7228830415094950419
+      Lilypad Legends_Primary Logo_Stacked version_mint green_8: 4164916029590647903
+      Lilypad Legends_Primary Logo_Stacked version_mint green_9: 893452903268965345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

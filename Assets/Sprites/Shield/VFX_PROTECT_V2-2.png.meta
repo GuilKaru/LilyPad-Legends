@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 5a0fe22b79a94e041ac20bc5afc1ad64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8369338561796995138
+    second: VFX_PROTECT_V2-2_0
+  - first:
+      213: 5304432491857120622
+    second: VFX_PROTECT_V2-2_1
+  - first:
+      213: -4541054415640101580
+    second: VFX_PROTECT_V2-2_2
+  - first:
+      213: -5445193684429400493
+    second: VFX_PROTECT_V2-2_3
+  - first:
+      213: 7090308810129745607
+    second: VFX_PROTECT_V2-2_4
+  - first:
+      213: 1351418221229997939
+    second: VFX_PROTECT_V2-2_5
+  - first:
+      213: 6823627700369603647
+    second: VFX_PROTECT_V2-2_6
+  - first:
+      213: -6161802009344540063
+    second: VFX_PROTECT_V2-2_7
+  - first:
+      213: 1875812067651296300
+    second: VFX_PROTECT_V2-2_8
+  - first:
+      213: 6258677162063968952
+    second: VFX_PROTECT_V2-2_9
+  - first:
+      213: -698966055484036210
+    second: VFX_PROTECT_V2-2_10
+  - first:
+      213: -2706004108743754388
+    second: VFX_PROTECT_V2-2_11
+  - first:
+      213: 3585381311722364929
+    second: VFX_PROTECT_V2-2_12
+  - first:
+      213: 4903348499657173935
+    second: VFX_PROTECT_V2-2_13
+  - first:
+      213: -3213772637821694279
+    second: VFX_PROTECT_V2-2_14
+  - first:
+      213: 5998035790815042433
+    second: VFX_PROTECT_V2-2_15
+  - first:
+      213: 6039921916249260543
+    second: VFX_PROTECT_V2-2_16
+  - first:
+      213: 744142020448674608
+    second: VFX_PROTECT_V2-2_17
+  - first:
+      213: -6464811144288136196
+    second: VFX_PROTECT_V2-2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_0
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 879
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24873ec441dd52470800000000000000
+      internalID: 8369338561796995138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_1
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 932
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d0f2c4f312d9940800000000000000
+      internalID: 5304432491857120622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_2
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 720
+        width: 118
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d7d0a811feaf0c0800000000000000
+      internalID: -4541054415640101580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_3
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 859
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3569262a139ce64b0800000000000000
+      internalID: -5445193684429400493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_4
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 806
+        width: 105
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c62b97fb46d56260800000000000000
+      internalID: 7090308810129745607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 695
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f776b46b331c210800000000000000
+      internalID: 1351418221229997939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_6
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 711
+        width: 164
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cbb088d3562be50800000000000000
+      internalID: 6823627700369603647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_7
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 687
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1620bb818b1ec7aa0800000000000000
+      internalID: -6161802009344540063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_8
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 658
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c1fb51329380a10800000000000000
+      internalID: 1875812067651296300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_9
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 588
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3ca018b94bd650800000000000000
+      internalID: 6258677162063968952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_10
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 684
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b61d86316cc46f0800000000000000
+      internalID: -698966055484036210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_11
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 493
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6db491a997527ad0800000000000000
+      internalID: -2706004108743754388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_12
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 471
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100298d8e45d1c130800000000000000
+      internalID: 3585381311722364929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_13
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 418
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faba20c3b713c0440800000000000000
+      internalID: 4903348499657173935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_14
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 459
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be84cd20d26663d0800000000000000
+      internalID: -3213772637821694279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_15
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 454
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b1c95d5cd4d3350800000000000000
+      internalID: 5998035790815042433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_16
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 221
+        width: 699
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff142216bfc12d350800000000000000
+      internalID: 6039921916249260543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_17
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 425
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033e8479939b35a00800000000000000
+      internalID: 744142020448674608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_PROTECT_V2-2_18
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 451
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf318bc24806846a0800000000000000
+      internalID: -6464811144288136196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_PROTECT_V2-2_0: 8369338561796995138
+      VFX_PROTECT_V2-2_1: 5304432491857120622
+      VFX_PROTECT_V2-2_10: -698966055484036210
+      VFX_PROTECT_V2-2_11: -2706004108743754388
+      VFX_PROTECT_V2-2_12: 3585381311722364929
+      VFX_PROTECT_V2-2_13: 4903348499657173935
+      VFX_PROTECT_V2-2_14: -3213772637821694279
+      VFX_PROTECT_V2-2_15: 5998035790815042433
+      VFX_PROTECT_V2-2_16: 6039921916249260543
+      VFX_PROTECT_V2-2_17: 744142020448674608
+      VFX_PROTECT_V2-2_18: -6464811144288136196
+      VFX_PROTECT_V2-2_2: -4541054415640101580
+      VFX_PROTECT_V2-2_3: -5445193684429400493
+      VFX_PROTECT_V2-2_4: 7090308810129745607
+      VFX_PROTECT_V2-2_5: 1351418221229997939
+      VFX_PROTECT_V2-2_6: 6823627700369603647
+      VFX_PROTECT_V2-2_7: -6161802009344540063
+      VFX_PROTECT_V2-2_8: 1875812067651296300
+      VFX_PROTECT_V2-2_9: 6258677162063968952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

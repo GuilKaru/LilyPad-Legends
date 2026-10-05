@@ -1,0 +1,236 @@
+{
+  "agents": [
+    {
+      "id": "agent_frog_001",
+      "name": "#25445",
+      "visualId": "bluey",
+      "visualHeadId": "bluey",
+      "visualMouthId":"uwu",
+      "visualEyesId":"regular",
+      "visualHatId":"bucket_hat_talus",
+      "stats": {
+        "maxHealth": 120,
+        "attack": 30,
+        "defense": 20,
+        "speed": 25,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_002",
+      "name": "#12256",
+      "visualId": "leaf_frog",
+      "visualHeadId": "leaf_frog",
+      "visualMouthId": "open",
+      "visualEyesId": "hypnotized",
+      "visualHatId": "bowler_hat",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_003",
+      "name": "#78224",
+      "visualId": "bubble",
+      "visualHeadId": "bubble",
+      "visualMouthId": "bubble_gum",
+      "visualEyesId": "star",
+      "visualHatId": "minime",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_004",
+      "name": "#12546",
+      "visualId": "gold",
+      "visualHeadId": "gold",
+      "visualMouthId": "toothy_grin",
+      "visualEyesId": "dollar",
+      "visualHatId": "top_hat",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_005",
+      "name": "#74444",
+      "visualId": "grey",
+      "visualHeadId": "grey",
+      "visualMouthId": "cigar",
+      "visualEyesId": "eye_patch",
+      "visualHatId": "beanie",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_006",
+      "name": "#87593",
+      "visualId": "midnight",
+      "visualHeadId": "midnight",
+      "visualMouthId": "goofy",
+      "visualEyesId": "robot_eye",
+      "visualHatId": "crown_silver",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_007",
+      "name": "#86124",
+      "visualId": "pinky",
+      "visualHeadId": "pinky",
+      "visualMouthId": "one_tooth",
+      "visualEyesId": "battle_wound",
+      "visualHatId": "cowboy",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_008",
+      "name": "#57395",
+      "visualId": "Talus_green",
+      "visualHeadId": "Talus_green",
+      "visualMouthId": "big_smile",
+      "visualEyesId": "dot",
+      "visualHatId": "biker_hat",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_009",
+      "name": "#19204",
+      "visualId": "talus_gradient",
+      "visualHeadId": "talus_gradient",
+      "visualMouthId": "moustache",
+      "visualEyesId": "goat",
+      "visualHatId": "bandana_white",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_0010",
+      "name": "#17298",
+      "visualId": "toad",
+      "visualHeadId": "toad",
+      "visualMouthId": "pepe",
+      "visualEyesId": "pepe_eyes",
+      "visualHatId": "mushroom_cap",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    },
+    {
+      "id": "agent_frog_0011",
+      "name": "#37593",
+      "visualId": "poison_yellow",
+      "visualHeadId": "poison_yellow",
+      "visualMouthId": "long-tongue",
+      "visualEyesId": "sunglasses_pixel",
+      "visualHatId": "leaf",
+      "stats": {
+        "maxHealth": 140,
+        "attack": 25,
+        "defense": 30,
+        "speed": 20,
+        "criticalChance": 0
+      },
+      "attacks": [
+        "tally_punch",
+        "geyser",
+        "aqua_barrier"
+      ]
+    }
+    
+  ]
+}

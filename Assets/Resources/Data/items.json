@@ -1,0 +1,32 @@
+{
+  "items": [
+    { "id": "heal_t1", "name": "Heal Potion", "tier": "T1",
+      "weight": 50, "effectTypeRaw": "Heal", "healPercent": 0.15 },
+
+    { "id": "atk_t1", "name": "Attack Boost", "tier": "T1",
+      "weight": 25, "effectTypeRaw": "AttackBoost", "attackBoost": 0.15 },
+
+    { "id": "def_t1", "name": "Defense Boost", "tier": "T1",
+      "weight": 25, "effectTypeRaw": "DefenseBoost", "defenseBoost": 0.15 },
+
+
+    { "id": "megaheal_t2", "name": "Mega Heal", "tier": "T2",
+      "weight": 30, "effectTypeRaw": "Heal", "healPercent": 0.30 },
+
+    { "id": "megaatk_t2", "name": "Mega Attack", "tier": "T2",
+      "weight": 30, "effectTypeRaw": "AttackBoost", "attackBoost": 0.30 },
+
+    { "id": "megadef_t2", "name": "Mega Defense", "tier": "T2",
+      "weight": 40, "effectTypeRaw": "DefenseBoost", "defenseBoost": 0.30 },
+
+
+    { "id": "epicheal_t3", "name": "Epic Heal", "tier": "T3",
+      "weight": 20, "effectTypeRaw": "Heal", "healPercent": 0.60 },
+
+    { "id": "epicatk_t3", "name": "Epic Attack", "tier": "T3",
+      "weight": 30, "effectTypeRaw": "AttackBoost", "attackBoost": 0.60 },
+
+    { "id": "epicdef_t3", "name": "Epic Defense", "tier": "T3",
+      "weight": 50, "effectTypeRaw": "DefenseBoost", "defenseBoost": 0.60 }
+  ]
+}
